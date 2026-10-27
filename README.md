@@ -1,4 +1,4 @@
-# CodeAlpha_Phishing-Awareness-Training
+# EKSI_Phishing-Awareness-Training
 Complete phishing awareness training module
 # Phishing Awareness Training Module
 
